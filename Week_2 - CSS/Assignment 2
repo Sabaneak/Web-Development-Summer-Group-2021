@@ -1,0 +1,23 @@
+#Assignment 2
+
+The assignment will be of 30 points. You can also get a score above 30, if you attempt the bonus points section correctly. 
+The solution will be posted once the submission of the assignment has closed. It covers almost everything you have learnt in the past week, so brush on your concepts before you attempt it. 
+You will also need a lot of help from Google. Upload your assignment either on codepen (https://www.codepen.io) or jsFiddle (https://jsfiddle.net) and submit the link of your assignment in the form. 
+
+
+#YOUR ASSIGNMENT:
+1. Create a page that looks like the one shown in the image. You will be awarded points for proper use of selectors and styles.
+2. Style the table as shown without using classes and ids. Minimum use of selectors gets highest points.
+3. Change the background image to a gradient (The color of the title background here is a placeholder, use a gradient instead)
+4. Import Lato from Google fonts and use it throughout the page
+5. Change the text color when it is selected
+6. Style the first letter of each line separately
+
+#BONUS POINTS:
+1. Bonus points will be awarded for html semantic accuracy. Think of what each section in the page represents and use the correct tag. (Hint: None of them use div's or span's)
+2. Include links to social media as icons on the right side of the footer, and style them for hover (Hint: Use an icon pack like fontawesome)
+
+Submission link: https://forms.gle/YmGErWcpNs11BiJb8
+
+#IMAGE:
+https://scontent.fmaa3-2.fna.fbcdn.net/v/t1.6435-9/100634111_270872760946654_8995219774908661760_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=825194&_nc_ohc=ywAEzX5BGVQAX-B6zzm&_nc_ht=scontent.fmaa3-2.fna&oh=47afe2e8c2eb62cff840e3329909090e&oe=61221E33
